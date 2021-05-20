@@ -25,7 +25,7 @@
   <i>Want to connect and have a discussion about Network Automation or something else?</i>
 
   <p align="center">
-    <a href="https://twitter.com/jklaiber" alt="Twitter"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/twitter.png"></a>
+    <a href="https://twitter.com/julianklaiber" alt="Twitter"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/julianklaiber/" alt="Linkedin"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/linkedin.png"></a>
     <a href="https://github.com/jklaiber" alt="GitHub"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/github.png"></a>
   </p>
