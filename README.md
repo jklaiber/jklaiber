@@ -1,19 +1,21 @@
-### Hi Github 👋
+### Hi All
 
 <p align="center">
   <br><br>
   <samp>
-  I'm Julian. A Student and Network Engineer from Switzerland. I'm currently working in the DevOps environment (Docker Swarm, Kubernetes) and making research on Network Automation with Ansible and Salt. 
+  I'm Julian. A Student and Research Engineer from Switzerland. I'm currently researching the field of Segment Routing in conjunction with cloud-native technologies. 
+  <br><br>
+  Check out our new <a href="https://segment-routing.ch">Website</a> for more information about our work in the Segment Routing field.
   </samp>
 <details>
-  <summary>Some (maybe 😉) interesting facts about me!</summary>
+  <summary>Some facts about me!</summary>
   <br>
   
-  - 💻 Working as a **Network Engineer** in the [Institute for Networked Solutions](https://ins.hsr.ch).
+  - 💻 Working as a **Network and Research Engineer** in the [Institute for Networked Solutions](https://ins.hsr.ch).
   
-  - ☀️ Learning and Developing Network Automation based projects in Python.
+  - ☀️ Developing Segment Routing applications with cloud-native technologies.
   
-  - ✍️ Study **Computer Science** at the [University of Applied Science Rapperswil](https://www.hsr.ch).
+  - ✍️ Study **Computer Science** at the [Eastern Switzerland University](https://www.ost.ch).
 
   - 🚀 Working on some cool new projects.
   
