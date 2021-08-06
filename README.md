@@ -24,7 +24,7 @@
 </details>
 <hr>
 <p align="center">
-  <i>Want to connect and have a discussion about Network Automation or something else?</i>
+  <i>Want to connect and have a discussion about Segment Routing or something else?</i>
 
   <p align="center">
     <a href="https://twitter.com/julianklaiber" alt="Twitter"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/twitter.png"></a>
