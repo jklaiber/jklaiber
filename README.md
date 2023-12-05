@@ -4,21 +4,19 @@
   <br><br>
   <samp>
   I'm Julian. A Student and Research Engineer from Switzerland. I'm currently researching the field of Segment Routing in conjunction with cloud-native technologies. 
-  <br><br>
-  Check out our new <a href="https://segment-routing.ch">Website</a> for more information about our work in the Segment Routing field.
   </samp>
 <details>
   <summary>Some facts about me!</summary>
   <br>
   
-  - 💻 Working as a **Network and Research Engineer** in the [Institute for Networked Solutions](https://ins.hsr.ch).
+  - 💻 Working as a **Network and Research Engineer** in the [Institute for Network and Security](https://ins.hsr.ch).
   
   - ☀️ Developing Segment Routing applications with cloud-native technologies.
   
   - ✍️ Study **Computer Science** at the [Eastern Switzerland University](https://www.ost.ch).
 
   - 🚀 Working on some cool new projects.
-  
+    - [Jumper](https://github.com/jklaiber/jumper) - A simple CLI SSH manager 
     - [WEmulate](https://github.com/wemulate) - A modern Network Emulator 
   
 </details>
