@@ -1,33 +1,32 @@
-### Hi All
-
+### Hi there 👋
 <p align="center">
   <br><br>
   <samp>
-  I'm Julian. A Student and Research Engineer from Switzerland. I'm currently researching the field of Segment Routing in conjunction with cloud-native technologies. 
+    I'm Julian, a Network and Research Engineer based in Switzerland, diving deep into the intersection of networking and cloud-native technologies. My current focus is on leveraging eBPF and Go to revolutionize dataplane programming and network efficiency.
   </samp>
+</p>
 <details>
-  <summary>Some facts about me!</summary>
+  <summary>More about my journey!</summary>
   <br>
-  
-  - 💻 Working as a **Network and Research Engineer** in the [Institute for Network and Security](https://ins.hsr.ch).
-  
-  - ☀️ Developing Segment Routing applications with cloud-native technologies.
-  
-  - ✍️ Study **Computer Science** at the [Eastern Switzerland University](https://www.ost.ch).
+
+  - 🎓 Proud holder of a Master's Degree in Computer Science from Eastern Switzerland University.
+
+  - 💼 Engaged as a Network and Research Engineer at the Institute for Network and Security, pushing the boundaries of Segment Routing and network innovation.
+
+  - 🌐 Focusing on eBPF and Go for cutting-edge network programming and application development.
 
   - 🚀 Working on some cool new projects.
+    - [eBPF-Bridge](https://github.com/jklaiber/ebpf-bridge) - eBPF driven network bridge
     - [Jumper](https://github.com/jklaiber/jumper) - A simple CLI SSH manager 
     - [WEmulate](https://github.com/wemulate) - A modern Network Emulator 
-  
+    - [Jalapeno API Gateway](github.com/jalapeno-api-gateway) - A modern API gateway for the cloud-native SDN platform Jalapeno
+
 </details>
 <hr>
 <p align="center">
-  <i>Want to connect and have a discussion about Segment Routing or something else?</i>
-
+  <i>Keen on discussing eBPF, Go, Segment Routing, or any tech-related topic?</i>
   <p align="center">
-    <a href="https://twitter.com/julianklaiber" alt="Twitter"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/julianklaiber/" alt="Linkedin"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/linkedin.png"></a>
     <a href="https://github.com/jklaiber" alt="GitHub"><img src="https://github.com/jklaiber/jklaiber/blob/master/readme/github.png"></a>
   </p>
-</p>
 </p>
