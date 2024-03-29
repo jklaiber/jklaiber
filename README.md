@@ -19,7 +19,7 @@
     - [eBPF-Bridge](https://github.com/jklaiber/ebpf-bridge) - eBPF driven network bridge
     - [Jumper](https://github.com/jklaiber/jumper) - A simple CLI SSH manager 
     - [WEmulate](https://github.com/wemulate) - A modern Network Emulator 
-    - [Jalapeno API Gateway](github.com/jalapeno-api-gateway) - A modern API gateway for the cloud-native SDN platform Jalapeno
+    - [Jalapeno API Gateway](https://github.com/jalapeno-api-gateway) - A modern API gateway for the cloud-native SDN platform Jalapeno
 
 </details>
 <hr>
